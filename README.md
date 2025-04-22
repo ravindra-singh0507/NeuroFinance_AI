@@ -1,5 +1,5 @@
 Overview:
-Fingenius AI is an AI-driven financial assistant designed to analyze over 1,000 transactions and spending patterns in real time. The system automates 90% of the expense categorization process through receipt scanning and Natural Language Processing (NLP)-based analysis. By utilizing machine learning and advanced algorithms, it provides real-time insights into spending habits while ensuring a high level of security and ease of use.
+NeuroFinance AI is an AI-driven financial assistant designed to analyze over 1,000 transactions and spending patterns in real time. The system automates 90% of the expense categorization process through receipt scanning and Natural Language Processing (NLP)-based analysis. By utilizing machine learning and advanced algorithms, it provides real-time insights into spending habits while ensuring a high level of security and ease of use.
 
 Key Features:
 
