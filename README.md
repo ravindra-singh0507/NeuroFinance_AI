@@ -1,8 +1,8 @@
 
-# FinGenius AI: Full Stack AI Finance Platform
+# NeuroFinance AI: Full Stack AI Finance Platform
 
 ## 📜 Project Overview
-FinGenius AI is a comprehensive full-stack web application designed to manage financial tasks using advanced AI. It integrates cutting-edge technologies such as Next.js, Supabase, TailwindCSS, Prisma, Inngest, ArcJet, and Shadcn UI to provide a seamless user experience in the finance sector.
+NeuroFinance AI is a comprehensive full-stack web application designed to manage financial tasks using advanced AI. It integrates cutting-edge technologies such as Next.js, Supabase, TailwindCSS, Prisma, Inngest, ArcJet, and Shadcn UI to provide a seamless user experience in the finance sector.
 
 This platform provides AI-powered features to streamline financial analysis, budgeting, forecasting, and more.
 
